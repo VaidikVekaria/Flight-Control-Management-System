@@ -25,5 +25,5 @@ Process:
 3.e Update the Autopilot with the new coordinates 
 3.f Send the coordinates to the GPS Date Subject
 4.	The GPS Data Subject notifies the Actuators 
-5.	The Autopilot notifies the control surfaces with the offset of how much left, right, up or down the airplane is off from the desired path \
+5.	The Autopilot notifies the control surfaces with the offset of how much left, right, up or down the airplane is off from the desired path
 
